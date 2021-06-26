@@ -43,22 +43,14 @@ img{
 }
 
 .button {
-	background-color: blue;
-	border: none;
-	color: white;
-	text-align: center;
-	text-decoration: none;
-	font-size: 12px;
-	margin: 2px 2px;
-	padding: 0px 0px 0px 0px;
+  background-color: blue;
+  color: white;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border: 1px blue;
 }
 
-.button1 {
-	border-radius: 75%;
-    background-color: blue;
-    outline-color: blue
-    color: white;
-}
 
 #time{
 	justify-self: center;
