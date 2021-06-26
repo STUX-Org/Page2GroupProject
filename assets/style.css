@@ -49,15 +49,12 @@ img{
   color: white;
   padding: 10px 10px 10px 10px;
   text-align: center;
-  text-decoration: none;
-  display: inline-block;
   font-size: 14px;
-  margin: 1px 1px;
 }
 
 .button{
 	border-radius: 75%;
-	border-width: 1px
+	shape-outside: circle(20px);
 }
 
 #time{
