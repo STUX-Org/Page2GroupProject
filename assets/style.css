@@ -48,16 +48,14 @@ img{
 	color: white;
 	text-align: center;
 	text-decoration: none;
-	display: inline-block;
 	font-size: 12px;
 	margin: 2px 2px;
 	padding: 1px;
 }
 
-.button {border-radius: 75%;
-background-color: blue;
-text-color: white;
+.button1 {border-radius: 75%;
 color: white;
+background-color: blue;
 }
 
 #time{
