@@ -51,6 +51,15 @@ img{
   border: 1px blue;
 }
 
+.info{
+	width: 184px;
+	height:224px;
+	align-content: left;
+	margin-top: 80px;
+	margin-right:20px;
+	margin-left: 1px;
+}
+
 
 #time{
 	justify-self: center;
