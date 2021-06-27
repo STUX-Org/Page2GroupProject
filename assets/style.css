@@ -53,11 +53,12 @@ img{
 
 .info{
 	width: 184px;
-	height:224px;
-	align-content: left;
-	margin-top: 80px;
-	margin-right:20px;
-	margin-left: 1px;
+	height:195px;
+	margin-top: 4px;
+	margin-right: 10px;
+	display: grid;
+	grid-column: 4/9;
+	grid-row: 5/9;
 }
 
 
